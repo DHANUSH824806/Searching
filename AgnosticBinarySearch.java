@@ -1,3 +1,4 @@
+//This code is for both in Ascending or Descending Order
 class AgnosticBinarySearch{
     public static void main(String[] args) {
        // int[] arr={-1,23,234,545,6767,78999,97966};//ascending order sorted array
